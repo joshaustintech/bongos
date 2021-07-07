@@ -1,1 +1,6 @@
 lib/*.dart linguist-detectable
+android/ -linguist-detectable
+assets/ -linguist-detectable
+ios/ -linguist-detectable
+macos/ -linguist-detectable
+web/ -linguist-detectable
